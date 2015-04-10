@@ -1,0 +1,6 @@
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\bin\Debug\CPUST.exe.config
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\bin\Debug\CPUST.exe
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\bin\Debug\CPUST.pdb
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\obj\Debug\CPUST.csprojResolveAssemblyReference.cache
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\obj\Debug\CPUST.exe
+c:\users\mamdouh\documents\visual studio 2013\Projects\CPUST\CPUST\obj\Debug\CPUST.pdb
